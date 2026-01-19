@@ -25,7 +25,4 @@ The platform is designed to let travelers share visual stories and explore journ
 - **Database:** MySQL  
 - **Server:** Apache (XAMPP)  
 
----
-
-## 📂 Project Structure
 
